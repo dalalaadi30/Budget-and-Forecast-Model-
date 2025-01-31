@@ -1,4 +1,4 @@
-# Budget-and-Forecast-Model-
+# Budget-and-Forecast-Model- ( Guided Project by Kenji Explains ) 
 This project consists of an Excel-based financial tracking and forecasting tool.
 Overview
 
